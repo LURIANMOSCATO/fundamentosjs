@@ -1,37 +1,13 @@
-// var
+// JS é uma linguagem dinâmica
+// linguagem multiparadgma, consguimos resolver problema de formas diferente usando ele
 
-    //var altura = 5;
-    //var comprimento = 7;
+/* Oque é NodeJS?
 
-    //var area = altura * comprimento;
-    //console.log(area);
-    //var area;
+como js é linguagem interpretado,  precisa de um interpretador, ou o navegador ou podemos usar node como 
+interpretador, usando então JS no backend.
 
-    //let altura = 5;
-    //let comprimento = 7;
-    //let forma = 'retangulo'; 
-    //let area;
-    
-    //if(forma === 'retangulo') {
-    //    area = altura * comprimento;
-    //} else {
-    //    area = altura * comprimento / 2;
-    //}
+*/
 
-    //area = altura * comprimento;
-    //console.log(area);
-
-    const forma = 'triangulo';
-    const altura = 5;
-    const comprimento = 7;
-    let area;
-
-    if (forma === 'quadrado') {
-        area = altura * comprimento;
-    } else {
-        area = (altura * comprimento) / 2;
-    }
-    console.log("A area é de " + area);
-
-
-    
+let minhaVar = 867;
+minhaVar = "texto";
+minhaVar = "true";
